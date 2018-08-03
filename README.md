@@ -5,7 +5,7 @@ a crawler to get qq friends' emtions
 
 > 这个文件是提前建立好的 并且需要手动添加两张表单以及两张表单的表头
 >
-> 分别命名为friend_info 和 Black 
+> 两张表单分别命名为friend_info 和 Black 
 >
 > 两张表的表头A1,B1位置为 名字 和 号码
 
